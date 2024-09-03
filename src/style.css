@@ -90,3 +90,16 @@ button:hover {
   font-size: 1.8rem;
   background-color: rgba(7, 89, 133, 0.5);
 }
+
+.about {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgba(0, 0, 0, 0.559);
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  color: var(--font-color);
+  justify-content: space-between;
+  padding: 50px;
+  font-size: 1.8rem;
+}
